@@ -1,4 +1,8 @@
 
+- name: alioss-deploy-action
+  uses: steve9II/alioss-deploy-action@v1.0-beta
+
+
 # SEO
 title: Swiss Jekyll Theme
 description: A bold typographic theme inspired by Swiss design.
